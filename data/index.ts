@@ -80,9 +80,9 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-      img: "/p2.svg",
+      title: "CarHub - A Modern Car Showcase Platform",
+      des: "A modern car showcase platform using NextJS server-side rendering and complex filtering capabilities",
+      img: "/projekt-2.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
       link: "https://github.com/adrianhajdin/zoom-clone",
     },
