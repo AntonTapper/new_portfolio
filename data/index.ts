@@ -59,7 +59,7 @@ export const navItems = [
     {
       id: 6,
       title: "Contact me!",
-      description: "",
+      description: "Do you want to start a project together?",
       className: "lg:col-span-2 md:col-span-3 md:row-span-1",
       imgClassName: "",
       titleClassName: "justify-center md:max-w-full max-w-60 text-center",
@@ -204,6 +204,7 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
+      url: 'https://github.com/AntonTapper'
     },
     {
       id: 2,
@@ -212,5 +213,6 @@ export const navItems = [
     {
       id: 3,
       img: "/link.svg",
+      url: "https://www.linkedin.com/in/anton-tapper-dock-bb1b58228/"
     },
   ];
