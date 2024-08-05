@@ -75,7 +75,7 @@ export const navItems = [
       des: "Evently is an event organization app with authentication, event management, search, filtering, checkout and payments using Next JS 14, Tailwind CSS, Shadcn, React, Mongoose, Clerk and Stripe",
       img: "/Evently.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/node.svg", "/stripe.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      link: "https://evently-seven-jet.vercel.app/",
     },
     {
       id: 2,
@@ -83,7 +83,7 @@ export const navItems = [
       des: "A modern car showcase platform using NextJS server-side rendering and complex filtering capabilities",
       img: "/projekt-2.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      link: "https://car-showcase-three-ashy.vercel.app/",
     },
     {
       id: 3,
@@ -91,7 +91,7 @@ export const navItems = [
       des: "Built an admin dashboard with full authentication, a homepage displaying charts and activities, a comprehensive table for companies with CRUD and search, and a Kanban board with real-time synchronization.",
       img: "/projekt-1.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/graphql.svg", "/vite.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      link: "https://dashboard-eta-brown.vercel.app/login",
     },
     {
       id: 4,
