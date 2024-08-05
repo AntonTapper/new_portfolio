@@ -91,7 +91,7 @@ export const navItems = [
       des: "Built an admin dashboard with full authentication, a homepage displaying charts and activities, a comprehensive table for companies with CRUD and search, and a Kanban board with real-time synchronization.",
       img: "/projekt-1.png",
       iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/graphql.svg", "/vite.svg"],
-      link: "https://dashboard-eta-brown.vercel.app/login",
+      link: "https://dashboard-eta-brown.vercel.app/",
     },
     {
       id: 4,
